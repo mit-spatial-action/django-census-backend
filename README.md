@@ -1,3 +1,3 @@
 # django-census-backend
 
-🤓 🤓 WORK IN PROGRESS 🤓 🤓
+**Archived**. No longer updated.
